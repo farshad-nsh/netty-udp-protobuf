@@ -8,7 +8,7 @@ This Library helps to understand:
 <li>how and when to pass variables to the next handler
 <li>how to use java enum to encode different commands as integers
 
-##Motivation
+## Motivation
 Combining netty and RxJava for infrastructure development is essential for
 businesses that need to scale their business to more than 500 million users or devices(in IOT).
 This architecture creates greater throughput and extremely high concurrency in
